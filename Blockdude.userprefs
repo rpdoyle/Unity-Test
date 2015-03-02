@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\Maze\Assets\Materials\Scripts\EnemyFollow.js">
+    <Files>
+      <File FileName="..\Maze\Assets\Scripts\Shoot.js" Line="1" Column="1" />
+      <File FileName="..\Maze\Assets\Scripts\EnemyAnimate.js" Line="20" Column="16" />
+      <File FileName="..\Maze\Assets\Scripts\Player.js" Line="19" Column="15" />
+      <File FileName="..\Maze\Assets\Scripts\Crosshairs.js" Line="1" Column="1" />
+      <File FileName="..\Maze\Assets\Scripts\TextControl.js" Line="1" Column="1" />
+      <File FileName="..\Maze\Assets\Materials\Scripts\EnemyFollow.js" Line="109" Column="33" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
