@@ -1,4 +1,4 @@
-﻿#pragma strict
+#pragma strict
 
 static var hasBlock : int = 0;
 static var block : GameObject;
@@ -20,7 +20,15 @@ function Update () {
     if (Input.GetKeyDown("left")) {
     	MoveLeft();
     }
-  
+    
+    if (Input.GetKeyDown(KeyCode.A)) {
+    	MoveLeft();
+    }
+    
+    if (Input.GetKeyDown(KeyCode.D)) {
+    	MoveRight();
+    }
+    
     if (Input.GetKeyDown("right")) {
     	MoveRight();
     }
